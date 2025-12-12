@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1765134385 source:h:\stack\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Stack.h"
+
+1765134385 h:\stack\include\linkedlist.h
+	"Node.h"
+
+1765134385 h:\stack\include\node.h
+
+1765134385 h:\stack\include\stack.h
+
+1765134385 source:h:\stack\src\linkedlist.cpp
+
+1765134385 source:h:\stack\src\node.cpp
+
