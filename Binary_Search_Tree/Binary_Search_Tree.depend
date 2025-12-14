@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1765548216 source:h:\binary_search_tree\src\bst.cpp
+
+1765548184 source:h:\binary_search_tree\src\node.cpp
+
+1765576521 source:h:\binary_search_tree\main.cpp
+	<iostream>
+	"BST.h"
+
+1765570803 h:\binary_search_tree\include\bst.h
+	"Node.h"
+
+1765570773 h:\binary_search_tree\include\node.h
+	<iostream>
+	"Emp.h"
+
+1765570187 h:\binary_search_tree\include\emp.h
+	<string>
+
+1765570178 source:h:\binary_search_tree\src\emp.cpp
+

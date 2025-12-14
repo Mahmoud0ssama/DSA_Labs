@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1765625893 source:h:\bfs_search_graph\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+
