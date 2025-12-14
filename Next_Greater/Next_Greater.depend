@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765142906 source:h:\next_greater\main.cpp
+	<iostream>
+	"Stack_Arr.h"
+
+1765142656 h:\next_greater\include\stack_arr.h
+
+1765142669 source:h:\next_greater\src\stack_arr.cpp
+

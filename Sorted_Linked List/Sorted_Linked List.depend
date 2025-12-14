@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1765458635 source:h:\sorted_linked list\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765458604 h:\sorted_linked list\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1765457985 h:\sorted_linked list\include\node.h
+	<iostream>
+
+1765457953 source:h:\sorted_linked list\src\linkedlist.cpp
+
+1765457990 source:h:\sorted_linked list\src\node.cpp
+

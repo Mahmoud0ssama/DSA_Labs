@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1765011947 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765011960 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\node.cpp
+
+1765014732 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765014645 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\node.cpp
+
+1765017295 source:h:\linkedlist\src\linkedlist.cpp
+
+1765017295 source:h:\linkedlist\src\node.cpp
+
+1765278694 source:h:\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Stack.h"
+	"Queue.h"
+
+1765134567 h:\linkedlist\include\linkedlist.h
+	"Node.h"
+
+1765137268 h:\linkedlist\include\node.h
+	<iostream>
+
+1765138724 h:\linkedlist\include\stack.h
+	"LinkedList.h"
+
+1765279027 h:\linkedlist\include\queue.h
+	"Node.h"
+
+1765137283 source:h:\linkedlist\src\queue.cpp
+
+1765137291 source:h:\linkedlist\src\stack.cpp
+
